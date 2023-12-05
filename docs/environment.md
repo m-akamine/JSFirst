@@ -104,6 +104,8 @@ GitHubのアカウント情報を登録
 ``` terminal
 $ git config --global user.email "メールアドレス"
 $ git config --global user.name "GitHubアカウント名"
+$ git config --global core.editor nvim
+$ git config --global color.ui auto
 ```
 
 ブラウザからGitHubで授業用のリポジトリを新規作成  
