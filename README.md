@@ -57,18 +57,22 @@ JavaScriptの基礎をPaizaを併用して学習します。
 
 #### References
 
-- [前回の復習](./docs/jsbasics.md)
-- [データを受け取る](https://paiza.jp/works/javascript/trial/javascript-trial-1/63007)
-- [標準入力と標準出力](https://paiza.jp/works/javascript/trial/javascript-trial-1/63008)
+- [前回の復習 (JavaScript Primer)](./docs/jsbasics.md)
+
+
+- [JavaScript体験編1: JavaScriptをはじめよう](https://paiza.jp/works/javascript/trial/javascript-trial-1)
+  - chapter 2[はじめてのプログラミング](https://paiza.jp/works/javascript/trial/javascript-trial-1/63001)
+  - chapter 8[データを受け取る](https://paiza.jp/works/javascript/trial/javascript-trial-1/63007)
+  - chapter 9[標準入力と標準出力](https://paiza.jp/works/javascript/trial/javascript-trial-1/63008)
 
 #### Exercise
 
-- [標準入力サンプル問題セット](https://paiza.jp/works/mondai/stdin/problem_index?language_uid=javascript)
+- Paiza問題集 [標準入力サンプル問題セット(JavaScript)](https://paiza.jp/works/mondai/stdin/problem_index?language_uid=javascript)
 - [算術・代入演算メニュー](./exercise/problems/exercise/arithmetic_substitution_op.md)
 
 #### 解答例
 
-- [標準入力サンプル問題セット 解答](./exercise/problems/basic/stdin.md)
+- Paiza問題集 [標準入力サンプル問題セット 解答 (JavaScript)](./exercise/problems/basic/stdin.md)
 - [算術・代入演算メニュー 解答](./exercise/problems/basic/arithmetic_substitution_op.md)
 
 
